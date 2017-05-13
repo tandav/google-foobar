@@ -1,5 +1,5 @@
 # Google Foobar
-My answers the google foobar coding challenges
+My answers to the [google foobar](https://news.ycombinator.com/item?id=8589835) coding challenges
 
 ## Level 1
 
@@ -19,3 +19,7 @@ My answers the google foobar coding challenges
 | Challenge | Name        | Task                           | Solution                     |
 |:---------:|-------------|--------------------------------|------------------------------|
 | 1         | Bomb, Baby! | [bomb_baby.txt](bomb_baby.txt) | [bomb_baby.py](bomb_baby.py) |
+
+## TODO
+* add inspiring photos)
+* add screenshots with status at least on level 3
