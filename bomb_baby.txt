@@ -1,4 +1,3 @@
-foobar:~/bomb_baby alx1dr$ cat readme.txt 
 Bomb, Baby!
 ===========
 
