@@ -11,6 +11,7 @@ My answers to the [google foobar](https://news.ycombinator.com/item?id=8589835) 
 ## Level 3
 1. Bomb, Baby! - [Task](bomb_baby.txt) | [Solution](bomb_baby.py)
 
-## TODO
-* add inspiring photos)
-* add screenshots with status at least on level 3
+![inspiring](https://cloud.githubusercontent.com/assets/5549677/26222791/01b15720-3c24-11e7-8c43-b997d1cef1b7.png)
+![img_0931](https://cloud.githubusercontent.com/assets/5549677/26222638/75104740-3c23-11e7-8eeb-d271fed8e78d.JPG)
+![img_0934](https://cloud.githubusercontent.com/assets/5549677/26222636/750865de-3c23-11e7-9c14-bd964c18256f.JPG)
+![img_0937](https://cloud.githubusercontent.com/assets/5549677/26222637/750cf50e-3c23-11e7-9816-5f50f4caa87e.JPG)
