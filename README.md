@@ -11,6 +11,9 @@ My answers to the [google foobar](https://news.ycombinator.com/item?id=8589835) 
 ## Level 3
 1. Bomb, Baby! - [Task](bomb_baby.txt) | [Solution](bomb_baby.py)
 
+---
+
+![screen shot 2017-05-09 at 22 03 56](https://user-images.githubusercontent.com/5549677/32482922-dddb6110-c3aa-11e7-8d54-54e5ae9c51ac.png)
 ![inspiring](https://cloud.githubusercontent.com/assets/5549677/26222791/01b15720-3c24-11e7-8c43-b997d1cef1b7.png)
 ![img_0931](https://cloud.githubusercontent.com/assets/5549677/26222638/75104740-3c23-11e7-8eeb-d271fed8e78d.JPG)
 ![img_0934](https://cloud.githubusercontent.com/assets/5549677/26222636/750865de-3c23-11e7-9c14-bd964c18256f.JPG)
